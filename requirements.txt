@@ -1,0 +1,7 @@
+python-terrier==0.10.1
+ranx==0.3.19
+matplotlib==3.9.0
+pandas==2.2.2
+seaborn==0.13.2
+tqdm==4.66.4
+python-dotenv==1.0.1
